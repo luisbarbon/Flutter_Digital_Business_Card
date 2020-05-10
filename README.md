@@ -1,4 +1,4 @@
-# flutterdigitalbusinesscard
+# FLUTTER DIGITAL BUSINESS CARD
 
 A Digital Business Card made in Flutter
 
